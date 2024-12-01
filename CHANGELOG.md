@@ -5,6 +5,10 @@ The format is based on [keep a changelog](http://keepachangelog.com) and this pr
 
 ## [Unreleased]
 
+## [1.35.1] - 2024-12-01
+### Changed
+- Runtime parameter added to event register functions
+
 ## [1.35.0] - 2024-11-25
 ### Added
 - Add new runtime function to get a list of user's friend status.
